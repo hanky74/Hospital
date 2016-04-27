@@ -1,7 +1,7 @@
 ---
 title: "2.병원데이터분석_텍스트마이닝추가"
 author: "Keeyoung Han"
-output: html_document
+output: md_document
 ---
 
 ```{r setup, include=FALSE}

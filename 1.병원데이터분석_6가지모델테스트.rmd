@@ -1,7 +1,7 @@
 ---
 title: "병원데이터분석_6개 모델 테스트"
 author: "Keeyoung Han"
-output: html_document
+output: md_document
 ---
 
 ```{r setup, include=FALSE}
